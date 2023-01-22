@@ -8,7 +8,7 @@ Aplicación con Python y Streamlit, en la que implementamos una serie de accione
 
 ![image](https://user-images.githubusercontent.com/64815391/213933029-7c1677c4-340c-4992-96f1-97fc682f41c1.png)
 
-3ª Una neurona con tres entradas, sus correspondientes pesos y Bias (peso).
+3ª Una neurona con tres entradas, sus correspondientes pesos y Bias (sesgo).
 
 ![image](https://user-images.githubusercontent.com/64815391/213933081-2ef1f825-920d-4bc1-94a8-7333635d2161.png)
 
