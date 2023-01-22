@@ -14,3 +14,6 @@ Aplicación con Python y Streamlit, en la que implementamos una serie de accione
 
 
 Hemos usado Python y Streamlit para realizar la aplicación.
+
+Para la imagen la hemos incrustado a través de un enlace en lugar de alojarla en la misma plataforma para mejorar la carga de la misma
+y consumir menos almacenamiento.
