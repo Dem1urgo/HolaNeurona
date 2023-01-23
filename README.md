@@ -1,7 +1,7 @@
 Aplicación con Python y Streamlit, en la que implementamos una serie de acciones básicas con una neurona.
 
 <p>
-  <a href="https://dem1urgo-generarvocabulario-app-g174dn.streamlit.app/">Puedes probarlo aquí.</a>.
+  <a href="https://dem1urgo-holaneurona-app-k67dpb.streamlit.app/">Puedes probarlo aquí.</a>
 </p>
 
 1ª Pestaña: Una neourona con una entrada y un peso.
