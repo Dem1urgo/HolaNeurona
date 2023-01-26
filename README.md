@@ -4,7 +4,7 @@ Aplicación con Python y Streamlit, en la que implementamos una serie de accione
   <a href="https://dem1urgo-holaneurona-app-k67dpb.streamlit.app/">Puedes probarlo aquí.</a>
 </p>
 
-1ª Pestaña: Una neourona con una entrada y un peso.
+1ª Pestaña: Una neurona con una entrada y un peso.
 
 ![image](https://user-images.githubusercontent.com/64815391/213932984-2bd4665b-4743-45ac-8fda-7fe525b092d6.png)
 
